@@ -1,0 +1,86 @@
+[
+    {
+      "name": "miriam",
+      "lastName": "di carlo",
+      "id": 27902790,
+      "birthDate": "3/12/1968",
+      "numPhone": "2281458900",
+      "address": "san juan 124",
+      "email": "miriam.dicar@gmail.com",
+      "numFile": 1,
+      "startDate": "12/4/2023",
+      "subject": "matematica"
+    },
+    {
+      "name": "maria",
+      "lastName": "manna",
+      "id": 32567345,
+      "birthDate": "18/7/1970",
+      "numPhone": 2294567890,
+      "address": "chacabuco 1234",
+      "email": "maria.manna@gmail.com",
+      "numFile": 2,
+      "startDate": "14/4/2023",
+      "subject": "lengua"
+    },
+    {
+      "name": "patricia",
+      "lastName": "rojas",
+      "id": 30567234,
+      "birthDate": "23/8/1975",
+      "numPhone": 2281567890,
+      "address": "la paz 1234",
+      "email": "patri.rojas@gmail.com",
+      "numFile": 3,
+      "startDate": "14/4/2023",
+      "subject": "sociales"
+    },
+    {
+      "name": "claudia",
+      "lastName": "perez",
+      "id": 31567890,
+      "birthDate": "5/3/1985",
+      "numPhone": 1156234898,
+      "address": "san martin 145",
+      "email": "clau.perez@gmail.com",
+      "numFile": 4,
+      "startDate": "14/4/2023",
+      "subject": "naturales"
+    },
+    {
+      "name": "julieta",
+      "lastName": "kesler",
+      "id": 28798564,
+      "birthDate": "12/6/1987",
+      "numPhone": 2281456212,
+      "address": "saavedra 675",
+      "email": "julieta.kesler@gmail.com",
+      "numFile": 5,
+      "startDate": "14/4/2023",
+      "subject": "ingles"
+    },
+    {
+      "name": "gustavo",
+      "lastName": "poffer",
+      "id": 34567890,
+      "birthDate": "7/9/1990",
+      "numPhone": 2294670908,
+      "address": "zibechi 876",
+      "email": "gustavo.poffer@gmail.com",
+      "numFile": 6,
+      "startDate": "14/4/2023",
+      "subject": "ed.fisica"
+    },
+    {
+      "name": "carlos",
+      "lastName": "serante",
+      "id": 11622273,
+      "birthDate": "15/11/1955",
+      "numPhone": 22345678,
+      "address": "las heras 125",
+      "email": "carlos.serante@gmail.com",
+      "numFile": 7,
+      "startDate": "27/4/2023",
+      "subject": "sociales"
+    }
+  ]

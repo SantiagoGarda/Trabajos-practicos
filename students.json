@@ -1,0 +1,148 @@
+[
+    {
+      "name": "fabricio",
+      "lastName": "cordoba",
+      "id": 35795118,
+      "birthDate": "23/4/1994",
+      "numPhone": 2494020297,
+      "address": "vuelta de obligado 48",
+      "email": "fabricio.cbe@gmail.com",
+      "numFile": 1,
+      "startDate": "12/4/2023",
+      "subjects": [
+        {
+          "name": "matematica",
+          "grade": 8,
+          "teacher": "Prof. Mat. Miriam Di Carlo"
+        },
+        { "name": "lengua", "grade": 8, "teacher": "Prof. Leng. Maria Manna " },
+        { "name": "sociales", "grade": 7, "teacher": "Prof. Soc. Patricia Rojas" }
+      ],
+      "average": 7.666666666666667
+    },
+    {
+      "name": "milagros",
+      "lastName": "herrera",
+      "id": 42504965,
+      "birthDate": "14/1/2000",
+      "numPhone": 2281458564,
+      "address": "costa rica 152",
+      "email": "milagros.test@gmail.com",
+      "numFile": 2,
+      "startDate": "12/4/2023",
+      "subjects": [
+        {
+          "name": "ed.fisica",
+          "grade": 8,
+          "teacher": "Prof. Edu. Gustavo Poffer"
+        },
+        { "name": "ingles", "grade": 8, "teacher": "Prof. Ing. Julieta Kesler" }
+      ],
+      "average": 8
+    },
+    {
+      "name": "anabel",
+      "lastName": "assann",
+      "id": 31576362,
+      "birthDate": "9/4/1985",
+      "numPhone": "1156642314",
+      "address": "taglioretti 1072",
+      "email": "assannanabel@gmail.com",
+      "numFile": 3,
+      "startDate": "12/4/2023",
+      "subjects": [
+        {
+          "name": "matematica",
+          "grade": 8,
+          "teacher": "Prof. Mat. Miriam Di Carlo"
+        },
+        { "name": "lengua", "grade": 8, "teacher": "Prof. Leng. Maria Manna " },
+        {
+          "name": "sociales",
+          "grade": 7,
+          "teacher": "Prof. Soc. Patricia Rojas"
+        },
+        { "name": "naturales", "grade": 7, "teacher": "Prof. Nat. Claudia Perez" }
+      ],
+      "average": 7.5
+    },
+    {
+      "name": "santiago",
+      "lastName": "garda",
+      "id": 35678908,
+      "birthDate": "11/10/1995",
+      "numPhone": 2281456789,
+      "address": "urquiza 245",
+      "email": "santi.garda@gmail.com",
+      "numFile": 4,
+      "startDate": "21/4/2023",
+      "subjects": [
+        {
+          "name": "sociales",
+          "grade": 7,
+          "teacher": "Prof. Soc. Patricia Rojas"
+        },
+        { "name": "lengua", "grade": 6, "teacher": "Prof. Leng. Maria Manna " },
+        { "name": "naturales", "grade": 8, "teacher": "Prof. Nat. Claudia Perez" }
+      ],
+      "average": 7
+    },
+    {
+      "name": "maria",
+      "lastName": "laguna",
+      "id": 34567890,
+      "birthDate": "18/4/1989",
+      "numPhone": 2281763456,
+      "address": "saavedra 178",
+      "email": "mari.laguna@gmail.com",
+      "numFile": 5,
+      "startDate": "22/4/2023",
+      "subjects": [
+        {
+          "name": "matematica",
+          "grade": 5,
+          "teacher": "Prof. Mat. Miriam Di Carlo"
+        },
+        { "name": "naturales", "grade": 8, "teacher": "Prof. Nat. Claudia Perez" }
+      ],
+      "average": 6.5
+    },
+    {
+      "name": "nicolas",
+      "lastName": "castell",
+      "id": 45678675,
+      "birthDate": "10/11/2005",
+      "numPhone": 2267453627,
+      "address": "la paz 1267",
+      "email": "nico.cas@gmail.com",
+      "numFile": 6,
+      "startDate": "23/4/2023",
+      "subjects": [
+        { "name": "lengua", "grade": 6, "teacher": "Prof. Leng. Maria Manna " },
+        { "name": "ingles", "grade": 7, "teacher": "Prof. Soc. Patricia Rojas" },
+        { "name": "sociales", "grade": 6, "teacher": "Prof. Soc. Patricia Rojas" }
+      ],
+      "average": 6.333333333333333
+    },
+    {
+      "name": "mariela",
+      "lastName": "ballestre",
+      "id": 45678129,
+      "birthDate": "9/3/2005",
+      "numPhone": 22784567,
+      "address": "san juaan 6789",
+      "email": "marie.ba@gmail.com",
+      "numFile": 7,
+      "startDate": "25/4/2023",
+      "subjects": [
+        { "name": "lengua", "grade": 9, "teacher": "Prof. Leng. Maria Manna " },
+        {
+          "name": "sociales",
+          "grade": 8,
+          "teacher": "Prof. Soc. Patricia Rojas"
+        },
+        { "name": "ingles", "grade": 7, "teacher": "Prof. Ing. Julieta Kesler" }
+      ],
+      "average": 8
+    }
+  ]
